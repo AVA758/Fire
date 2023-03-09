@@ -16,7 +16,7 @@ Ricardo Navarro Gomez
 Create a code that makes a LED blink.
 
 ## Software Used
-Arduino
+Arduino IOT Cloud
 
 
 # DEVICE SETUP
