@@ -1,6 +1,6 @@
 # IOT ESP32 Firebeetle 
 
-José Antonio López Saldaño A01710367
+José Antonio López Saldaña A01710367
 
 Emiliano Gómez Gonzalez A01710711
 
